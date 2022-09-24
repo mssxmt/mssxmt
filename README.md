@@ -4,11 +4,6 @@
 [![](https://img.youtube.com/vi/ZZ8cmoqzc9g/0.jpg)](https://www.youtube.com/watch?v=ZZ8cmoqzc9g)
 [![](https://img.youtube.com/vi/xfLSczMbqIk/0.jpg)](https://www.youtube.com/watch?v=xfLSczMbqIk)
 ---
-<a href="#" ><img
-      alt="Top Langs"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api?username=mssxmt&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
-    /></a>
 
 <a href="#" ><img
       alt=""
